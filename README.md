@@ -1,4 +1,4 @@
-# Flapp_bird
+# Flappy_bird
 My Flappy Bird.exe is the playable file.
 
 1. This is a unity 2d game made by myself as a personal project to test out my skills and proficiency.
